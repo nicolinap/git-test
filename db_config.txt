@@ -1,2 +1,0 @@
-name: project_db
-user: db_user
